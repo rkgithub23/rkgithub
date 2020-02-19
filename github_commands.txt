@@ -1,3 +1,8 @@
 https://github.com/rkgithub23/rkgithub.git
 dir
 cd rkgithub
+git status
+git add file_name
+git commit -m "file_name"
+git push
+
